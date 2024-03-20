@@ -5,7 +5,7 @@ function NavbarIcon() {
     <>
      <div className='bg-light p-2 position-sticky bottom-0 d-block d-sm-none ' style={{ boxShadow: "rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em" }}>
 
-     <ul className=" navbaricon text-center justify-content-between p-0 m-0">
+     <ul className=" navbaricon text-center d-flex justify-content-between p-0 m-0">
             <li className="active  align-items-center" style={{padding: "3px"}}>
               <a href="/" className="text-hover">
                 <svg
